@@ -1,4 +1,4 @@
-# **[maxcodes.io](maxcodes.io)**
+# **[maxcodes.io](https://www.maxcodes.io)**
 
 # SharedTableViewDataInNavController
 an implementation of sharing data between tableviews in the same uinavigation stack. built for a student who needed some custom assistance.
